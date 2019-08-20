@@ -1,0 +1,19 @@
+h1 {
+    margin-top: 2rem;
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: #1879c7;
+
+}
+
+.btn-primary {
+    background-color: #002F7D;
+    font-size: 18px;
+}
+
