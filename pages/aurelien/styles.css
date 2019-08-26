@@ -1,0 +1,84 @@
+.flotte {
+    float: left;
+    margin-left: 10rem;
+}
+
+.logo {
+    margin-left: 42rem;
+}
+.icon-user{
+    width:45px;
+}
+
+.text-credit {
+    font-size: 13px;
+    margin-top: -1rem;
+    margin-right: -1rem;
+    color: #3e8bcd;
+}
+
+.row{
+    padding-top: 0.5rem;
+    padding-bottom: 1rem;
+}
+.image span {
+    visibility: hidden;
+}
+
+.image img:hover + span {
+    visibility: visible;
+}
+
+.icon-loupe {
+    margin-top: 2rem;
+    margin-left: 35rem;
+
+}
+
+.body-container{
+    background-color: #1879c7;
+    margin-top: -2rem;
+    padding-top: 4rem;
+    padding-bottom: 5rem;
+
+}
+.btn-1 {
+    font-weight: bold;
+    background-color: #002F7D;
+    margin-left: 63rem;
+    margin-top: -4rem !important;
+    margin-bottom: 4rem!important;
+    height: 45px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding: 8px 32px;
+    border-width: 0.2em;
+    border-color: silver;
+    border-style: outset;
+}
+.text-bonjour{
+    font-size: 30px;
+    text-align: center;
+    margin-left: -10rem;
+    margin-top: -2rem;
+    color: white;
+}
+.form-control{
+    margin-left: 6rem;
+    margin-bottom: 10rem;
+    padding: 30px 50px ;
+    border-radius: 7px;
+    text-align: center;
+}
+
+ .footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: black;
+     color: white;
+     text-align: center;
+ }
+

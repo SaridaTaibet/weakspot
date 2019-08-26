@@ -1,0 +1,33 @@
+.flotte {
+    float: left;
+    margin-left: 40rem;
+}
+
+.icon-user {
+    font-size: 20px;
+}
+
+.image span {
+    visibility: hidden;
+}
+.text-search {
+    text-align: center;
+    width: 12px;
+
+}
+
+.image img:hover + span {
+    visibility: visible;
+}
+
+
+.text-credit {
+    width: 13px !important;
+    margin-top: -1rem;
+    color: #3e8bcd !important;
+}
+
+.icon-user {
+    width:45px;
+}
+
