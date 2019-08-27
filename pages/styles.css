@@ -1,6 +1,6 @@
 .logo {
-    padding-left: 29rem;
-    margin-top: 1rem;
+    padding-left: 35rem;
+    margin-top: 5rem;
     margin-bottom: 1rem;
     text-align: center;
     color: #fff
@@ -8,10 +8,17 @@
 body {
     background-color: #1879c7;
 }
+.far {
+
+    margin-left: 30rem;
+    color: black;
+}
+
+
 .card {
     width: 26rem;
     height: 23rem;
-    margin-left: 23rem;
+    margin-left: 29rem;
     border-radius: 7px;
 }
 
