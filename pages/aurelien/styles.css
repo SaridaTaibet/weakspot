@@ -39,13 +39,13 @@
     background-color: #1879c7;
     margin-top: -2rem;
     padding-top: 4rem;
-    padding-bottom: 5rem;
+
 
 }
 .btn-1 {
     font-weight: bold;
     background-color: #002F7D;
-    margin-left: 63rem;
+    margin-left: 68rem;
     margin-top: -4rem !important;
     margin-bottom: 4rem!important;
     height: 45px;
@@ -58,15 +58,16 @@
     border-style: outset;
 }
 .text-bonjour{
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
+    margin-bottom: -1rem;
     margin-left: -10rem;
     margin-top: -2rem;
     color: white;
 }
 .form-control{
     margin-left: 6rem;
-    margin-bottom: 10rem;
+    margin-bottom: 11rem;
     padding: 30px 50px ;
     border-radius: 7px;
     text-align: center;
